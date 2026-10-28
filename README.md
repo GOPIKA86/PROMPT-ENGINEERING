@@ -1,5 +1,6 @@
 #### NAME: GOPIKA A
 #### REG NO: 212224100017
+#### DATE: 28/10/2026
 
 # Aim:	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 Experiment:
